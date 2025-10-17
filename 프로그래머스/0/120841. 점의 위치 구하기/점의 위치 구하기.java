@@ -20,6 +20,6 @@ class Solution {
             answer = 4;
         }
 
-        return answer;
+        return (answer);
     }
 }

@@ -5,4 +5,4 @@ def solution(n, numlist):
         if i%n==0:
             answer.append(i)
         
-    return answer
+    return (answer)

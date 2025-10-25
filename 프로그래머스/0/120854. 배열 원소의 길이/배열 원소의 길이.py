@@ -3,4 +3,4 @@ def solution(strlist):
     for i in strlist:
         answer.append(len(i))
        
-    return answer
+    return (answer)

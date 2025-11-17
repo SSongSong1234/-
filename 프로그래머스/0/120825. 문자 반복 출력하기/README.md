@@ -1,10 +1,10 @@
 # [level 0] 문자 반복 출력하기 - 120825 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=python3) 
 
 ### 성능 요약
 
-메모리: 91 MB, 시간: 12.61 ms
+메모리: 9.21 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 11월 17일 09:37:44
+2025년 11월 18일 08:36:29
 
 ### 문제 설명
 

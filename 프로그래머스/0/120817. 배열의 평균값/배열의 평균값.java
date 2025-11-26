@@ -11,6 +11,6 @@ class Solution {
         
         
         double result = (double) answer /numbers.length;
-        return ((double) result) ;
+        return ((double)  result) ;
     }
 }

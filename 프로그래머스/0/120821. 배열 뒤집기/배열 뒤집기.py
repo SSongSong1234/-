@@ -1,3 +1,3 @@
 def solution(num_list):
     
-    return (num_list[::-1])
+    return ( num_list[::-1])

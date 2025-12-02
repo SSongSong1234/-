@@ -4,4 +4,4 @@ def solution(n):
         answer = n//7+1
     else:
         answer = n// 7
-    return (answer)
+    return ( answer)

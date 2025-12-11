@@ -4,4 +4,4 @@ def solution(array, height):
     for i in range(len(array)):
         if height<array[i]:
          answer+=1
-    return answer
+    return (answer)
